@@ -10,4 +10,4 @@ namespace Oppgave1
         }
     }
 }
-/*dette gikk fint*/
+/*dette gikk fint ..*/
