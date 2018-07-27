@@ -18,7 +18,7 @@ namespace Stadion.Tribune
         {
             get
             {
-                return antallSolgtePlasser;g
+                return antallSolgtePlasser;
             }
         }
 
