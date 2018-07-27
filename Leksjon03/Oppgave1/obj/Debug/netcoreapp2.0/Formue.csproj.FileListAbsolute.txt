@@ -1,0 +1,11 @@
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\bin\Debug\netcoreapp2.0\Formue.deps.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\bin\Debug\netcoreapp2.0\Formue.runtimeconfig.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\bin\Debug\netcoreapp2.0\Formue.runtimeconfig.dev.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\bin\Debug\netcoreapp2.0\Formue.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\bin\Debug\netcoreapp2.0\Formue.pdb
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.csprojResolveAssemblyReference.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.csproj.CoreCompileInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.AssemblyInfoInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.AssemblyInfo.cs
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.pdb
