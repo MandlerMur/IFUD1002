@@ -9,3 +9,9 @@ C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netco
 C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.AssemblyInfo.cs
 C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.dll
 C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.pdb
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.csprojResolveAssemblyReference.cache
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.csproj.CoreCompileInputs.cache
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.AssemblyInfoInputs.cache
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.AssemblyInfo.cs
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.dll
+C:\Users\xaastr\Source\Repos\IFUD1002\Leksjon03\Oppgave1\obj\Debug\netcoreapp2.0\Formue.pdb

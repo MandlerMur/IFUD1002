@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Formue.Personer;
 
 namespace Formue.Lister
 {

@@ -1,4 +1,4 @@
-﻿using Formue.Person;
+﻿using Formue.Personer;
 
 namespace Formue.Lister
 {

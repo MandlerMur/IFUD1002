@@ -1,17 +1,17 @@
 ﻿using System;
 using Formue.Lister;
-using Formue.Person;
+using Formue.Personer;
 using System.Collections.Generic;
 
-namespace Leksjon03
+namespace Formue
 {
     public class EntryPoint
-    {
-        
+    {        
         static void Main()
         {
             Forumeliste_1 fl1 = new Forumeliste_1(100);
             FormueListe_2 fl2 = new FormueListe_2();
+            
 
             bool stop = false;
             while (!stop)
@@ -30,6 +30,7 @@ namespace Leksjon03
                     string navn = Console.ReadLine();
                     Console.WriteLine("Formue: ");
                     int formue = Int32.Parse(Console.ReadLine());
+
                     fl1.registerNewPerson(new Person(navn, formue));
                     fl2.registrerNyPerson(new Person(navn, formue));
                 }
