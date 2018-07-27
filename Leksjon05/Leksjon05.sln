@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stadion", "Stadion\Stadion.csproj", "{B62A761A-BF44-4E9B-A9F2-736E78DC19F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62A761A-BF44-4E9B-A9F2-736E78DC19F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A761A-BF44-4E9B-A9F2-736E78DC19F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A761A-BF44-4E9B-A9F2-736E78DC19F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A761A-BF44-4E9B-A9F2-736E78DC19F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308AD551-A92C-4E65-A738-1E2F3ACA428F}
+	EndGlobalSection
+EndGlobal
