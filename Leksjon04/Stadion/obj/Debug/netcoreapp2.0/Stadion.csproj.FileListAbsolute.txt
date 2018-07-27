@@ -1,0 +1,11 @@
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\bin\Debug\netcoreapp2.0\Stadion.deps.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\bin\Debug\netcoreapp2.0\Stadion.runtimeconfig.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\bin\Debug\netcoreapp2.0\Stadion.runtimeconfig.dev.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\bin\Debug\netcoreapp2.0\Stadion.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\bin\Debug\netcoreapp2.0\Stadion.pdb
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.csprojResolveAssemblyReference.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.csproj.CoreCompileInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.AssemblyInfoInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.AssemblyInfo.cs
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon04\Stadion\obj\Debug\netcoreapp2.0\Stadion.pdb
