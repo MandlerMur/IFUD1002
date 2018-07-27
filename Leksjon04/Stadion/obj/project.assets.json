@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon04\\Stadion\\Stadion.csproj",
+      "projectUniqueName": "C:\\Users\\xaastr\\Source\\Repos\\IFUD1002\\Leksjon04\\Stadion\\Stadion.csproj",
       "projectName": "Stadion",
-      "projectPath": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon04\\Stadion\\Stadion.csproj",
+      "projectPath": "C:\\Users\\xaastr\\Source\\Repos\\IFUD1002\\Leksjon04\\Stadion\\Stadion.csproj",
       "packagesPath": "C:\\Users\\xaastr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon04\\Stadion\\obj\\",
+      "outputPath": "C:\\Users\\xaastr\\Source\\Repos\\IFUD1002\\Leksjon04\\Stadion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
