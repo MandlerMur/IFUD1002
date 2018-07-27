@@ -1,0 +1,10 @@
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\bin\Debug\netcoreapp2.0\Oppgave2.deps.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\bin\Debug\netcoreapp2.0\Oppgave2.runtimeconfig.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\bin\Debug\netcoreapp2.0\Oppgave2.runtimeconfig.dev.json
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\bin\Debug\netcoreapp2.0\Oppgave2.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\bin\Debug\netcoreapp2.0\Oppgave2.pdb
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\obj\Debug\netcoreapp2.0\Oppgave2.csproj.CoreCompileInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\obj\Debug\netcoreapp2.0\Oppgave2.AssemblyInfoInputs.cache
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\obj\Debug\netcoreapp2.0\Oppgave2.AssemblyInfo.cs
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\obj\Debug\netcoreapp2.0\Oppgave2.dll
+C:\Users\xaastr\Source\Repos\Skule\IFUD1002C#\Leksjon01\Oppgave1\obj\Debug\netcoreapp2.0\Oppgave2.pdb
