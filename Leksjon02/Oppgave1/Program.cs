@@ -130,7 +130,7 @@ namespace Oppgave1
             Console.WriteLine($@"Brøken {nyBrøk.Teller} / {nyBrøk.Nevner} multiplisert med seg selv er: {multiply(nyBrøk).Teller} / {multiply(nyBrøk).Nevner}");
 
             //kalle opp metode for å skrive ut brøken som en string
-            Console.WriteLine($@"Brøken på stringformat: {brøkToString(nyBrøk)}");
+            Console.WriteLine($@"Brøken på stringformat:  {brøkToString(nyBrøk)}");
 
 
 

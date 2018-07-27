@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon02\\Oppgave1\\Oppgave1.csproj",
+      "projectUniqueName": "C:\\Users\\xaastr\\Source\\Repos\\TestRepo\\WorkInProgress\\Leksjon02\\Oppgave1\\Oppgave1.csproj",
       "projectName": "Oppgave1",
-      "projectPath": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon02\\Oppgave1\\Oppgave1.csproj",
+      "projectPath": "C:\\Users\\xaastr\\Source\\Repos\\TestRepo\\WorkInProgress\\Leksjon02\\Oppgave1\\Oppgave1.csproj",
       "packagesPath": "C:\\Users\\xaastr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xaastr\\Source\\Repos\\Skule\\IFUD1002C#\\Leksjon02\\Oppgave1\\obj\\",
+      "outputPath": "C:\\Users\\xaastr\\Source\\Repos\\TestRepo\\WorkInProgress\\Leksjon02\\Oppgave1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
